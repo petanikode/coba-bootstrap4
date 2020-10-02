@@ -8,4 +8,4 @@ Silahkan baca: [Review Penggunaan Bootstrap 4](https://www.petanikode.com/bootst
 
 Demo hasil dapat dilihat di:
 
-- https://www.petanikode.com/coba-bootstrap4/
+- https://petanikode.github.io/coba-bootstrap4/
